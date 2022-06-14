@@ -42,17 +42,17 @@ int main()
 void printMeals()
 {
      
-      printf("\20*******************  WELCOME TO HADRAMOUT RESTURANT **************************\20\n");
+      printf("\20*******************  WELCOME TO SRM RESTURANT **************************\20\n");
       printf(" \t\t\t Below is the menue:\20\n");
       printf(" \t\t\t MEALS\t\t\tPRICE:\n");
       printf(" \t\t\t \22*******************************\22\n");
       printf(" \t\t\t 1- Fish and Chips\tRM15.80\n");
-      printf(" \t\t\t 2- Spaghetti\t\tRM10.50\n");
-      printf(" \t\t\t 3- T-Bone Steak\tRM19.00\n");
-      printf(" \t\t\t 4- Chicken Chop\tRM14.00\n");
-      printf(" \t\t\t 5- Chicken Maryland\tRM12.00\n");
-      printf(" \t\t\t 6- Red Lobster\t\tRM22.00\n");
-      printf(" \t\t\t 7- Seafood Platter\tRM16.00\n");
+      printf(" \t\t\t 2- Spaghetti\t\tR10.50\n");
+      printf(" \t\t\t 3- T-Bone Steak\tR19.00\n");
+      printf(" \t\t\t 4- Chicken Chop\tR14.00\n");
+      printf(" \t\t\t 5- Chicken Maryland\tR12.00\n");
+      printf(" \t\t\t 6- Red Lobster\t\tR22.00\n");
+      printf(" \t\t\t 7- Seafood Platter\tR16.00\n");
       
       
       
